@@ -1,4 +1,4 @@
 # Projetos
 
-Linux do Zero
+Curso Linux do Zero
 
